@@ -7,6 +7,6 @@ import (
 )
 
 func Visit() {
-	fmt.Println("E 1.1.0-rc.1")
+	fmt.Println("E 1.1.0")
 	F.Visit()
 }
